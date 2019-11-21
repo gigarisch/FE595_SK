@@ -10,7 +10,6 @@ from sklearn.datasets import load_wine
 import numpy as np
 import matplotlib.pyplot as plt 
 
-
 def main():
     
     # Load boston data
